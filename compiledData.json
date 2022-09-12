@@ -1,0 +1,1244 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "name": "7zip",
+      "function": "Compression: Création de .zip, .rar, .tar.gz ect.",
+      "referencedSinceTime": 1514764800000,
+      "isStillInObservation": false,
+      "isFromFrenchPublicService": false,
+      "isPresentInSupportContract": false,
+      "alikeSoftwares": [],
+      "license": "LGPL-2.0-only",
+      "mimGroup": "MIMO",
+      "versionMin": "19",
+      "workshopUrls": [],
+      "testUrls": [],
+      "useCaseUrls": [],
+      "agentWorkstation": true,
+      "tags": [],
+      "wikidataData": {
+        "id": "Q215051",
+        "label": "7-Zip",
+        "description": {
+          "fr": "logiciel facilitant l'archivage des données",
+          "en": "open-source file archiver and extractor"
+        },
+        "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/220px-7ziplogo.svg.png",
+        "framaLibreId": "7-zip",
+        "sourceUrl": "https://sourceforge.net/projects/sevenzip/files/7-Zip/",
+        "websiteUrl": "https://www.7-zip.org/",
+        "license": "LGPL",
+        "developers": [
+          {
+            "name": "Igor Pavlov",
+            "id": "Q531341"
+          }
+        ]
+      },
+      "comptoirDuLibreSoftware": {
+        "id": 72,
+        "name": "7-zip",
+        "url": "https://comptoir-du-libre.org/fr/softwares/72",
+        "i18n_url": {
+          "fr": "https://comptoir-du-libre.org/fr/softwares/72",
+          "en": "https://comptoir-du-libre.org/en/softwares/72"
+        },
+        "licence": "GNU LGPL",
+        "created": "2017-02-07T22:46:57+00:00",
+        "modified": "2020-02-07T02:16:53+00:00",
+        "external_resources": {
+          "website": "http://www.7-zip.org/",
+          "repository": "https://github.com/pornel/7z.git",
+          "framalibre": {
+            "slug": "7-zip",
+            "url": "https://framalibre.org/content/7-zip"
+          },
+          "sill": {
+            "id": 1,
+            "url": "https://sill.etalab.gouv.fr/fr/software?id=1",
+            "i18n_url": {
+              "fr": "https://sill.etalab.gouv.fr/fr/software?id=1",
+              "en": "https://sill.etalab.gouv.fr/en/software?id=1"
+            }
+          },
+          "wikidata": {
+            "id": "Q215051",
+            "url": "https://www.wikidata.org/wiki/Q215051",
+            "data": "https://www.wikidata.org/wiki/Special:EntityData/Q215051.json"
+          },
+          "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/7-Zip",
+            "i18n_url": {
+              "en": "https://en.wikipedia.org/wiki/7-Zip",
+              "fr": "https://en.wikipedia.org/wiki/7-Zip"
+            }
+          }
+        },
+        "providers": [
+          {
+            "id": 312,
+            "url": "https://comptoir-du-libre.org/fr/users/312",
+            "name": "LIBRE EXPERT",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.libre-expert.com/"
+            }
+          }
+        ],
+        "users": [
+          {
+            "id": 1078,
+            "url": "https://comptoir-du-libre.org/fr/users/1078",
+            "name": "Abbeville - Mairie d'Abbeville",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.abbeville.fr"
+            }
+          },
+          {
+            "id": 3210,
+            "url": "https://comptoir-du-libre.org/fr/users/3210",
+            "name": "Alès Agglomération",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.ales.fr"
+            }
+          },
+          {
+            "id": 561,
+            "url": "https://comptoir-du-libre.org/fr/users/561",
+            "name": "CA du Puy-en-Velay",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.agglo-lepuyenvelay.fr/"
+            }
+          },
+          {
+            "id": 2585,
+            "url": "https://comptoir-du-libre.org/fr/users/2585",
+            "name": "CA LE GRAND PERIGUEUX",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.grandperigueux.fr/"
+            }
+          },
+          {
+            "id": 2482,
+            "url": "https://comptoir-du-libre.org/fr/users/2482",
+            "name": "CC du Pays Réuni d'Orange",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ccpro.fr"
+            }
+          },
+          {
+            "id": 3192,
+            "url": "https://comptoir-du-libre.org/fr/users/3192",
+            "name": "CNRS-ICMCB",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 3412,
+            "url": "https://comptoir-du-libre.org/fr/users/3412",
+            "name": "Communauté de communes MACS",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.cc-macs.org/"
+            }
+          },
+          {
+            "id": 2560,
+            "url": "https://comptoir-du-libre.org/fr/users/2560",
+            "name": "Communauté de Communes Mezenc Loire Meygal",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.mezencloiremeygal.fr"
+            }
+          },
+          {
+            "id": 562,
+            "url": "https://comptoir-du-libre.org/fr/users/562",
+            "name": "Commune de Canéjan",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.canejan.fr"
+            }
+          },
+          {
+            "id": 305,
+            "url": "https://comptoir-du-libre.org/fr/users/305",
+            "name": "Département de la Gironde",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://gironde.fr"
+            }
+          },
+          {
+            "id": 3377,
+            "url": "https://comptoir-du-libre.org/fr/users/3377",
+            "name": "Département de l'Isère (38)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.isere.fr/"
+            }
+          },
+          {
+            "id": 2525,
+            "url": "https://comptoir-du-libre.org/fr/users/2525",
+            "name": "Département de Loire-Atlantique",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.loire-atlantique.fr/"
+            }
+          },
+          {
+            "id": 234,
+            "url": "https://comptoir-du-libre.org/fr/users/234",
+            "name": "DINUM",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.numerique.gouv.fr"
+            }
+          },
+          {
+            "id": 536,
+            "url": "https://comptoir-du-libre.org/fr/users/536",
+            "name": "ENSEA",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ensea.fr"
+            }
+          },
+          {
+            "id": 251,
+            "url": "https://comptoir-du-libre.org/fr/users/251",
+            "name": "Fontaine",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://ville-fontaine.fr"
+            }
+          },
+          {
+            "id": 218,
+            "url": "https://comptoir-du-libre.org/fr/users/218",
+            "name": "Gironde Numérique",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.girondenumerique.fr"
+            }
+          },
+          {
+            "id": 254,
+            "url": "https://comptoir-du-libre.org/fr/users/254",
+            "name": "GRAND BESANCON METROPOLE",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://grandbesancon.fr"
+            }
+          },
+          {
+            "id": 719,
+            "url": "https://comptoir-du-libre.org/fr/users/719",
+            "name": "Mairie de Gonfreville l'Orcher",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 186,
+            "url": "https://comptoir-du-libre.org/fr/users/186",
+            "name": "Mairie de Ladevèze-Rivière",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.mairie-ladeveze-riviere.fr"
+            }
+          },
+          {
+            "id": 399,
+            "url": "https://comptoir-du-libre.org/fr/users/399",
+            "name": "Mairie de Montereau-Fault-Yonne",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ville-montereau77.fr"
+            }
+          },
+          {
+            "id": 307,
+            "url": "https://comptoir-du-libre.org/fr/users/307",
+            "name": "Mairie de Saint-Denis-de-Palin",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.saintdenisdepalin.fr/"
+            }
+          },
+          {
+            "id": 685,
+            "url": "https://comptoir-du-libre.org/fr/users/685",
+            "name": "Mairie d'Evry-Courcouronnes",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.evrycourcouronnes.fr"
+            }
+          },
+          {
+            "id": 308,
+            "url": "https://comptoir-du-libre.org/fr/users/308",
+            "name": "Mairie d'OSMERY",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.osmery.fr/"
+            }
+          },
+          {
+            "id": 618,
+            "url": "https://comptoir-du-libre.org/fr/users/618",
+            "name": "Mont de Marsan Agglo - Direction des Systèmes d'Information",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.montdemarsan-agglo.fr/agglo/jsp/site/Portal.jsp"
+            }
+          },
+          {
+            "id": 140,
+            "url": "https://comptoir-du-libre.org/fr/users/140",
+            "name": "Montereau-Fault-Yonne",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.montereau77.fr"
+            }
+          },
+          {
+            "id": 176,
+            "url": "https://comptoir-du-libre.org/fr/users/176",
+            "name": "Parc du Vercors",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.parc-du-vercors.fr"
+            }
+          },
+          {
+            "id": 148,
+            "url": "https://comptoir-du-libre.org/fr/users/148",
+            "name": "Parc naturel régional des Monts d'Ardèche",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.parc-monts-ardeche.fr"
+            }
+          },
+          {
+            "id": 3432,
+            "url": "https://comptoir-du-libre.org/fr/users/3432",
+            "name": "SDIS de l'AIN (01)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.sdis01.fr/"
+            }
+          },
+          {
+            "id": 428,
+            "url": "https://comptoir-du-libre.org/fr/users/428",
+            "name": "SDIS de la Nièvre",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sdis58.fr"
+            }
+          },
+          {
+            "id": 160,
+            "url": "https://comptoir-du-libre.org/fr/users/160",
+            "name": "SIDEC du Jura",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sidec-jura.fr"
+            }
+          },
+          {
+            "id": 153,
+            "url": "https://comptoir-du-libre.org/fr/users/153",
+            "name": "Syndicat Mixte du Parc Routier de la Reunion (SMPRR)",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 274,
+            "url": "https://comptoir-du-libre.org/fr/users/274",
+            "name": "Ville d'Albi (81)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.mairie-albi.fr"
+            }
+          },
+          {
+            "id": 655,
+            "url": "https://comptoir-du-libre.org/fr/users/655",
+            "name": "Ville d'Audincourt",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.audincourt.fr"
+            }
+          },
+          {
+            "id": 978,
+            "url": "https://comptoir-du-libre.org/fr/users/978",
+            "name": "Ville de Beaumont-sur-Oise",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.beaumontsuroise.fr"
+            }
+          },
+          {
+            "id": 702,
+            "url": "https://comptoir-du-libre.org/fr/users/702",
+            "name": "Ville de Boé",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ville-boe.fr/"
+            }
+          },
+          {
+            "id": 3443,
+            "url": "https://comptoir-du-libre.org/fr/users/3443",
+            "name": "Ville d'Échirolles",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.echirolles.fr"
+            }
+          },
+          {
+            "id": 252,
+            "url": "https://comptoir-du-libre.org/fr/users/252",
+            "name": "Ville de Clichy-sous-Bois",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.clichy-sous-bois.fr"
+            }
+          },
+          {
+            "id": 714,
+            "url": "https://comptoir-du-libre.org/fr/users/714",
+            "name": "Ville de NANCY",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.nancy.fr"
+            }
+          },
+          {
+            "id": 318,
+            "url": "https://comptoir-du-libre.org/fr/users/318",
+            "name": "Ville de Nevers",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.nevers.fr"
+            }
+          },
+          {
+            "id": 337,
+            "url": "https://comptoir-du-libre.org/fr/users/337",
+            "name": "Ville de Rive de Gier",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.rivedegier.fr"
+            }
+          }
+        ]
+      },
+      "referents": []
+    },
+    {
+      "id": 78,
+      "name": "LibreOffice",
+      "function": "Suite bureautique (logiciel de traitement de texte, tableur ect)",
+      "referencedSinceTime": 1514764800000,
+      "isStillInObservation": false,
+      "isFromFrenchPublicService": false,
+      "isPresentInSupportContract": true,
+      "alikeSoftwares": [
+        {
+          "isKnown": true,
+          "softwareId": 79
+        },
+        {
+          "isKnown": false,
+          "softwareName": "Microsoft Office"
+        }
+      ],
+      "license": "MPL-2.0",
+      "contextOfUse": "**Nous [contacter](/fr/contact) pour connaître les versions packagées par l'administration**",
+      "mimGroup": "MIMO",
+      "versionMin": "Dernière stable",
+      "workshopUrls": [],
+      "testUrls": [],
+      "useCaseUrls": [],
+      "agentWorkstation": true,
+      "tags": [],
+      "wikidataData": {
+        "id": "Q10135",
+        "label": "LibreOffice",
+        "description": {
+          "fr": "suite bureautique soutenue par la communauté du logiciel libre",
+          "en": "office suite supported by the free software community"
+        },
+        "logoUrl": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_Logo_Flat.svg/220px-LibreOffice_Logo_Flat.svg.png",
+        "sourceUrl": "https://git.libreoffice.org/core",
+        "websiteUrl": "https://www.libreoffice.org",
+        "license": "MPL-2.0",
+        "developers": [
+          {
+            "name": "TDF",
+            "id": "Q313103"
+          }
+        ]
+      },
+      "comptoirDuLibreSoftware": {
+        "id": 33,
+        "name": "LibreOffice",
+        "url": "https://comptoir-du-libre.org/fr/softwares/33",
+        "i18n_url": {
+          "fr": "https://comptoir-du-libre.org/fr/softwares/33",
+          "en": "https://comptoir-du-libre.org/en/softwares/33"
+        },
+        "licence": "LGPLv3",
+        "created": "2016-06-14T10:16:56+00:00",
+        "modified": "2020-01-14T16:57:26+00:00",
+        "external_resources": {
+          "website": "https://fr.libreoffice.org/",
+          "repository": "https://github.com/LibreOffice/core.git",
+          "framalibre": [],
+          "sill": {
+            "id": 78,
+            "url": "https://sill.etalab.gouv.fr/fr/software?id=78",
+            "i18n_url": {
+              "fr": "https://sill.etalab.gouv.fr/fr/software?id=78",
+              "en": "https://sill.etalab.gouv.fr/en/software?id=78"
+            }
+          },
+          "wikidata": {
+            "id": "Q10135",
+            "url": "https://www.wikidata.org/wiki/Q10135",
+            "data": "https://www.wikidata.org/wiki/Special:EntityData/Q10135.json"
+          },
+          "wikipedia": {
+            "url": "https://en.wikipedia.org/wiki/LibreOffice",
+            "i18n_url": {
+              "en": "https://en.wikipedia.org/wiki/LibreOffice",
+              "fr": "https://en.wikipedia.org/wiki/LibreOffice"
+            }
+          }
+        },
+        "providers": [
+          {
+            "id": 57,
+            "url": "https://comptoir-du-libre.org/fr/users/57",
+            "name": "2i2L",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.2i2l.fr/"
+            }
+          },
+          {
+            "id": 174,
+            "url": "https://comptoir-du-libre.org/fr/users/174",
+            "name": "apitux",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://www.apitux.com"
+            }
+          },
+          {
+            "id": 165,
+            "url": "https://comptoir-du-libre.org/fr/users/165",
+            "name": "APLOSE",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.aplose.fr"
+            }
+          },
+          {
+            "id": 55,
+            "url": "https://comptoir-du-libre.org/fr/users/55",
+            "name": "Arawa",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.arawa.fr/"
+            }
+          },
+          {
+            "id": 226,
+            "url": "https://comptoir-du-libre.org/fr/users/226",
+            "name": "Artefacts",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://artefacts.coop"
+            }
+          },
+          {
+            "id": 3216,
+            "url": "https://comptoir-du-libre.org/fr/users/3216",
+            "name": "CAP-REL",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://cap-rel.fr"
+            }
+          },
+          {
+            "id": 63,
+            "url": "https://comptoir-du-libre.org/fr/users/63",
+            "name": "CIB",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://libreoffice.cib.de/"
+            }
+          },
+          {
+            "id": 61,
+            "url": "https://comptoir-du-libre.org/fr/users/61",
+            "name": "Collabora",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.collabora.com"
+            }
+          },
+          {
+            "id": 62,
+            "url": "https://comptoir-du-libre.org/fr/users/62",
+            "name": "Igalia",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.igalia.com/"
+            }
+          },
+          {
+            "id": 163,
+            "url": "https://comptoir-du-libre.org/fr/users/163",
+            "name": "Isabelle Dutailly",
+            "type": "Person",
+            "external_resources": {
+              "website": "https://numericoach.net"
+            }
+          },
+          {
+            "id": 2351,
+            "url": "https://comptoir-du-libre.org/fr/users/2351",
+            "name": "Liberasys",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.liberasys.com"
+            }
+          },
+          {
+            "id": 312,
+            "url": "https://comptoir-du-libre.org/fr/users/312",
+            "name": "LIBRE EXPERT",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.libre-expert.com/"
+            }
+          },
+          {
+            "id": 296,
+            "url": "https://comptoir-du-libre.org/fr/users/296",
+            "name": "MDDN",
+            "type": "Person",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 295,
+            "url": "https://comptoir-du-libre.org/fr/users/295",
+            "name": "Microlinux",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.microlinux.fr"
+            }
+          },
+          {
+            "id": 882,
+            "url": "https://comptoir-du-libre.org/fr/users/882",
+            "name": "OASSERVICES",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.oas-services.fr/"
+            }
+          },
+          {
+            "id": 1261,
+            "url": "https://comptoir-du-libre.org/fr/users/1261",
+            "name": "ODIGI",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://www.odigi.eu"
+            }
+          },
+          {
+            "id": 54,
+            "url": "https://comptoir-du-libre.org/fr/users/54",
+            "name": "OpenGO",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.opengo.fr/"
+            }
+          },
+          {
+            "id": 56,
+            "url": "https://comptoir-du-libre.org/fr/users/56",
+            "name": "Osinet",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://www.osinet.fr/"
+            }
+          },
+          {
+            "id": 14,
+            "url": "https://comptoir-du-libre.org/fr/users/14",
+            "name": "StarXpert",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://starxpert.fr/"
+            }
+          },
+          {
+            "id": 3374,
+            "url": "https://comptoir-du-libre.org/fr/users/3374",
+            "name": "Tybot.fr",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://www.tybot.fr"
+            }
+          },
+          {
+            "id": 180,
+            "url": "https://comptoir-du-libre.org/fr/users/180",
+            "name": "Vectura Archivage",
+            "type": "Company",
+            "external_resources": {
+              "website": "http://www.vectura-archivage.fr/"
+            }
+          }
+        ],
+        "users": [
+          {
+            "id": 1078,
+            "url": "https://comptoir-du-libre.org/fr/users/1078",
+            "name": "Abbeville - Mairie d'Abbeville",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.abbeville.fr"
+            }
+          },
+          {
+            "id": 3210,
+            "url": "https://comptoir-du-libre.org/fr/users/3210",
+            "name": "Alès Agglomération",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.ales.fr"
+            }
+          },
+          {
+            "id": 3396,
+            "url": "https://comptoir-du-libre.org/fr/users/3396",
+            "name": "Bertrand DAVID - CNRS - INSHS - Laboratoire ArAr",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 561,
+            "url": "https://comptoir-du-libre.org/fr/users/561",
+            "name": "CA du Puy-en-Velay",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.agglo-lepuyenvelay.fr/"
+            }
+          },
+          {
+            "id": 2585,
+            "url": "https://comptoir-du-libre.org/fr/users/2585",
+            "name": "CA LE GRAND PERIGUEUX",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.grandperigueux.fr/"
+            }
+          },
+          {
+            "id": 695,
+            "url": "https://comptoir-du-libre.org/fr/users/695",
+            "name": "CDG31",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.cdg31.fr"
+            }
+          },
+          {
+            "id": 2930,
+            "url": "https://comptoir-du-libre.org/fr/users/2930",
+            "name": "cheddad",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 185,
+            "url": "https://comptoir-du-libre.org/fr/users/185",
+            "name": "Clermont Auvergne Métropole",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.clermontmetropole.eu"
+            }
+          },
+          {
+            "id": 3192,
+            "url": "https://comptoir-du-libre.org/fr/users/3192",
+            "name": "CNRS-ICMCB",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 3412,
+            "url": "https://comptoir-du-libre.org/fr/users/3412",
+            "name": "Communauté de communes MACS",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.cc-macs.org/"
+            }
+          },
+          {
+            "id": 2560,
+            "url": "https://comptoir-du-libre.org/fr/users/2560",
+            "name": "Communauté de Communes Mezenc Loire Meygal",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.mezencloiremeygal.fr"
+            }
+          },
+          {
+            "id": 562,
+            "url": "https://comptoir-du-libre.org/fr/users/562",
+            "name": "Commune de Canéjan",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.canejan.fr"
+            }
+          },
+          {
+            "id": 305,
+            "url": "https://comptoir-du-libre.org/fr/users/305",
+            "name": "Département de la Gironde",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://gironde.fr"
+            }
+          },
+          {
+            "id": 234,
+            "url": "https://comptoir-du-libre.org/fr/users/234",
+            "name": "DINUM",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.numerique.gouv.fr"
+            }
+          },
+          {
+            "id": 604,
+            "url": "https://comptoir-du-libre.org/fr/users/604",
+            "name": "DRAC Pays de la Loire - Ministère de la Culture",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.culture.gouv.fr/Regions/Drac-Pays-de-la-Loire"
+            }
+          },
+          {
+            "id": 536,
+            "url": "https://comptoir-du-libre.org/fr/users/536",
+            "name": "ENSEA",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ensea.fr"
+            }
+          },
+          {
+            "id": 251,
+            "url": "https://comptoir-du-libre.org/fr/users/251",
+            "name": "Fontaine",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://ville-fontaine.fr"
+            }
+          },
+          {
+            "id": 218,
+            "url": "https://comptoir-du-libre.org/fr/users/218",
+            "name": "Gironde Numérique",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.girondenumerique.fr"
+            }
+          },
+          {
+            "id": 254,
+            "url": "https://comptoir-du-libre.org/fr/users/254",
+            "name": "GRAND BESANCON METROPOLE",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://grandbesancon.fr"
+            }
+          },
+          {
+            "id": 3256,
+            "url": "https://comptoir-du-libre.org/fr/users/3256",
+            "name": "Louroux-de-Bouble",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.lourouxdebouble.fr"
+            }
+          },
+          {
+            "id": 141,
+            "url": "https://comptoir-du-libre.org/fr/users/141",
+            "name": "Mairie de Gières",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://gieres.fr"
+            }
+          },
+          {
+            "id": 719,
+            "url": "https://comptoir-du-libre.org/fr/users/719",
+            "name": "Mairie de Gonfreville l'Orcher",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 186,
+            "url": "https://comptoir-du-libre.org/fr/users/186",
+            "name": "Mairie de Ladevèze-Rivière",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.mairie-ladeveze-riviere.fr"
+            }
+          },
+          {
+            "id": 285,
+            "url": "https://comptoir-du-libre.org/fr/users/285",
+            "name": "Mairie de Montreuil",
+            "type": "Administration",
+            "external_resources": {
+              "website": ""
+            }
+          },
+          {
+            "id": 249,
+            "url": "https://comptoir-du-libre.org/fr/users/249",
+            "name": "Mairie de Saint-Arnoult-en-Yvelines ",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.saintarnoultenyvelines.fr"
+            }
+          },
+          {
+            "id": 307,
+            "url": "https://comptoir-du-libre.org/fr/users/307",
+            "name": "Mairie de Saint-Denis-de-Palin",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.saintdenisdepalin.fr/"
+            }
+          },
+          {
+            "id": 685,
+            "url": "https://comptoir-du-libre.org/fr/users/685",
+            "name": "Mairie d'Evry-Courcouronnes",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.evrycourcouronnes.fr"
+            }
+          },
+          {
+            "id": 308,
+            "url": "https://comptoir-du-libre.org/fr/users/308",
+            "name": "Mairie d'OSMERY",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.osmery.fr/"
+            }
+          },
+          {
+            "id": 140,
+            "url": "https://comptoir-du-libre.org/fr/users/140",
+            "name": "Montereau-Fault-Yonne",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.montereau77.fr"
+            }
+          },
+          {
+            "id": 3453,
+            "url": "https://comptoir-du-libre.org/fr/users/3453",
+            "name": "oluthier",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://ville-fontaine.fr"
+            }
+          },
+          {
+            "id": 176,
+            "url": "https://comptoir-du-libre.org/fr/users/176",
+            "name": "Parc du Vercors",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.parc-du-vercors.fr"
+            }
+          },
+          {
+            "id": 175,
+            "url": "https://comptoir-du-libre.org/fr/users/175",
+            "name": "Parc national des Ecrins",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.ecrins-parcnational.fr"
+            }
+          },
+          {
+            "id": 148,
+            "url": "https://comptoir-du-libre.org/fr/users/148",
+            "name": "Parc naturel régional des Monts d'Ardèche",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.parc-monts-ardeche.fr"
+            }
+          },
+          {
+            "id": 3432,
+            "url": "https://comptoir-du-libre.org/fr/users/3432",
+            "name": "SDIS de l'AIN (01)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.sdis01.fr/"
+            }
+          },
+          {
+            "id": 58,
+            "url": "https://comptoir-du-libre.org/fr/users/58",
+            "name": "SDIS Isère (38) - Service départemental d'incendie et de secours",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sdis38.fr/"
+            }
+          },
+          {
+            "id": 160,
+            "url": "https://comptoir-du-libre.org/fr/users/160",
+            "name": "SIDEC du Jura",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sidec-jura.fr"
+            }
+          },
+          {
+            "id": 73,
+            "url": "https://comptoir-du-libre.org/fr/users/73",
+            "name": "Syndicat Mixte des Inforoutes",
+            "type": "Administration",
+            "external_resources": {
+              "website": null
+            }
+          },
+          {
+            "id": 274,
+            "url": "https://comptoir-du-libre.org/fr/users/274",
+            "name": "Ville d'Albi (81)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.mairie-albi.fr"
+            }
+          },
+          {
+            "id": 655,
+            "url": "https://comptoir-du-libre.org/fr/users/655",
+            "name": "Ville d'Audincourt",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.audincourt.fr"
+            }
+          },
+          {
+            "id": 978,
+            "url": "https://comptoir-du-libre.org/fr/users/978",
+            "name": "Ville de Beaumont-sur-Oise",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.beaumontsuroise.fr"
+            }
+          },
+          {
+            "id": 72,
+            "url": "https://comptoir-du-libre.org/fr/users/72",
+            "name": "Ville de Bezons",
+            "type": "Administration",
+            "external_resources": {
+              "website": null
+            }
+          },
+          {
+            "id": 702,
+            "url": "https://comptoir-du-libre.org/fr/users/702",
+            "name": "Ville de Boé",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.ville-boe.fr/"
+            }
+          },
+          {
+            "id": 3443,
+            "url": "https://comptoir-du-libre.org/fr/users/3443",
+            "name": "Ville d'Échirolles",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.echirolles.fr"
+            }
+          },
+          {
+            "id": 252,
+            "url": "https://comptoir-du-libre.org/fr/users/252",
+            "name": "Ville de Clichy-sous-Bois",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.clichy-sous-bois.fr"
+            }
+          },
+          {
+            "id": 60,
+            "url": "https://comptoir-du-libre.org/fr/users/60",
+            "name": "Ville de Corbas (69)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.ville-corbas.fr/"
+            }
+          },
+          {
+            "id": 714,
+            "url": "https://comptoir-du-libre.org/fr/users/714",
+            "name": "Ville de NANCY",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.nancy.fr"
+            }
+          },
+          {
+            "id": 318,
+            "url": "https://comptoir-du-libre.org/fr/users/318",
+            "name": "Ville de Nevers",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.nevers.fr"
+            }
+          },
+          {
+            "id": 337,
+            "url": "https://comptoir-du-libre.org/fr/users/337",
+            "name": "Ville de Rive de Gier",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.rivedegier.fr"
+            }
+          },
+          {
+            "id": 2825,
+            "url": "https://comptoir-du-libre.org/fr/users/2825",
+            "name": "Ville de Vandoeuvre (54)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.vandoeuvre.fr/"
+            }
+          },
+          {
+            "id": 16,
+            "url": "https://comptoir-du-libre.org/fr/users/16",
+            "name": "Ville Mions (69) ",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.mions.fr/"
+            }
+          },
+          {
+            "id": 59,
+            "url": "https://comptoir-du-libre.org/fr/users/59",
+            "name": "Ville Voreppe (38)",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.voreppe.fr/"
+            }
+          }
+        ]
+      },
+      "referents": [
+        {
+          "email": "john.doe@finances.gouv.fr",
+          "familyName": "Doe",
+          "firstName": "John",
+          "agencyName": "finances",
+          "isExpert": true,
+          "useCaseDescription": "Mis à dispostion sur un Bureau à distance via RDP",
+          "isPersonalUse": false
+        },
+        {
+          "email": "joseph.garrone@data.gouv.fr",
+          "familyName": "Garrone",
+          "firstName": "Joseph",
+          "agencyName": "etalab",
+          "isExpert": false,
+          "useCaseDescription": "Usage personnel pour rédaction de documents",
+          "isPersonalUse": true
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "agencyName": "DINUM",
+      "publicSector": "State",
+      "agencyUrl": "https://www.numerique.gouv.fr/",
+      "serviceName": "Webconf (Jitsi)",
+      "serviceUrl": "https://webconf.numerique.gouv.fr",
+      "description": "Visioconférence",
+      "publicationDate": "2019",
+      "lastUpdateDate": "2020",
+      "signupScope": "Agents publics",
+      "usageScope": "Tout le monde",
+      "signupValidationMethod": "Vérification de l'adresse email",
+      "contentModerationMethod": "Aucune",
+      "softwareSillId": 67
+    },
+    {
+      "id": 3,
+      "agencyName": "DINUM",
+      "publicSector": "State",
+      "agencyUrl": "https://www.numerique.gouv.fr/",
+      "serviceName": "Partage de notes",
+      "serviceUrl": "https://pad.incubateur.net",
+      "description": "Partage de nodes",
+      "publicationDate": "2020-10",
+      "lastUpdateDate": "2020-XX",
+      "signupScope": "Agents de la DINUM",
+      "usageScope": "Tous (lecture), agents DINUM (écriture)",
+      "signupValidationMethod": "Vérification de l'adresse email",
+      "contentModerationMethod": "Manuelle, par l'administrateur",
+      "softwareSillId": 180
+    }
+  ]
+}
