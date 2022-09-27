@@ -277,6 +277,15 @@
             }
           },
           {
+            "id": 3519,
+            "url": "https://comptoir-du-libre.org/fr/users/3519",
+            "name": "Mairie de Saint-Joseph",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://saintjoseph.re"
+            }
+          },
+          {
             "id": 685,
             "url": "https://comptoir-du-libre.org/fr/users/685",
             "name": "Mairie d'Evry-Courcouronnes",
