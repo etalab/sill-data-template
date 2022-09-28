@@ -367,6 +367,15 @@
             }
           },
           {
+            "id": 3526,
+            "url": "https://comptoir-du-libre.org/fr/users/3526",
+            "name": "SITPI",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sitpi.fr"
+            }
+          },
+          {
             "id": 153,
             "url": "https://comptoir-du-libre.org/fr/users/153",
             "name": "Syndicat Mixte du Parc Routier de la Reunion (SMPRR)",
@@ -1055,6 +1064,15 @@
             "type": "Administration",
             "external_resources": {
               "website": "http://www.sidec-jura.fr"
+            }
+          },
+          {
+            "id": 3526,
+            "url": "https://comptoir-du-libre.org/fr/users/3526",
+            "name": "SITPI",
+            "type": "Administration",
+            "external_resources": {
+              "website": "http://www.sitpi.fr"
             }
           },
           {
