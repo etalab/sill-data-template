@@ -624,6 +624,15 @@
             }
           },
           {
+            "id": 3534,
+            "url": "https://comptoir-du-libre.org/fr/users/3534",
+            "name": "HYPRA",
+            "type": "Company",
+            "external_resources": {
+              "website": "https://hypra.fr"
+            }
+          },
+          {
             "id": 62,
             "url": "https://comptoir-du-libre.org/fr/users/62",
             "name": "Igalia",
