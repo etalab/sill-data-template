@@ -322,6 +322,15 @@
             }
           },
           {
+            "id": 675,
+            "url": "https://comptoir-du-libre.org/fr/users/675",
+            "name": "Morbihan énergies",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://morbihan-energies.fr"
+            }
+          },
+          {
             "id": 176,
             "url": "https://comptoir-du-libre.org/fr/users/176",
             "name": "Parc du Vercors",
@@ -1014,6 +1023,15 @@
             }
           },
           {
+            "id": 675,
+            "url": "https://comptoir-du-libre.org/fr/users/675",
+            "name": "Morbihan énergies",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://morbihan-energies.fr"
+            }
+          },
+          {
             "id": 3453,
             "url": "https://comptoir-du-libre.org/fr/users/3453",
             "name": "oluthier",
@@ -1164,6 +1182,15 @@
             "type": "Administration",
             "external_resources": {
               "website": "http://www.ville-corbas.fr/"
+            }
+          },
+          {
+            "id": 3527,
+            "url": "https://comptoir-du-libre.org/fr/users/3527",
+            "name": "Ville de La Tronche",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.latronche.fr"
             }
           },
           {
