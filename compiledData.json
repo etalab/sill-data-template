@@ -1248,6 +1248,53 @@
           }
         ]
       },
+      "annuaireCnllServiceProviders": [
+        {
+          "name": "DotRiver Newgeneration SR",
+          "siren": "528010382",
+          "url": "https://annuaire.cnll.fr/societes/528010382"
+        },
+        {
+          "name": "APITUX",
+          "siren": "452887441",
+          "url": "https://annuaire.cnll.fr/societes/452887441"
+        },
+        {
+          "name": "Lan2Net",
+          "siren": "524457520",
+          "url": "https://annuaire.cnll.fr/societes/524457520"
+        },
+        {
+          "name": "2i21l",
+          "siren": "499482156",
+          "url": "https://annuaire.cnll.fr/societes/499482156"
+        },
+        {
+          "name": "OpenGo",
+          "siren": "489319251",
+          "url": "https://annuaire.cnll.fr/societes/489319251"
+        },
+        {
+          "name": "Code Lutin",
+          "siren": "442116703",
+          "url": "https://annuaire.cnll.fr/societes/442116703"
+        },
+        {
+          "name": "DBM technologies",
+          "siren": "434987608",
+          "url": "https://annuaire.cnll.fr/societes/434987608"
+        },
+        {
+          "name": "APLOSE",
+          "siren": "534906698",
+          "url": "https://annuaire.cnll.fr/societes/534906698"
+        },
+        {
+          "name": "esprit libre",
+          "siren": "410829477",
+          "url": "https://annuaire.cnll.fr/societes/410829477"
+        }
+      ],
       "referents": [
         {
           "email": "john.doe@finances.gouv.fr",
