@@ -914,6 +914,15 @@
             }
           },
           {
+            "id": 3553,
+            "url": "https://comptoir-du-libre.org/fr/users/3553",
+            "name": "GIP BULAC",
+            "type": "Administration",
+            "external_resources": {
+              "website": "https://www.bulac.fr"
+            }
+          },
+          {
             "id": 218,
             "url": "https://comptoir-du-libre.org/fr/users/218",
             "name": "Gironde Numérique",
